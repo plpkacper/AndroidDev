@@ -1,2 +1,3 @@
-# AndroidDev
-A Dokkan Stamina Notification
+# DokkanNotif
+A Dokkan Stamina Notification App
+
